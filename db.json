@@ -2,7 +2,7 @@
   "projects": [
     {
       "id": "project1",
-      "title": "Project 1 Title",
+      "title": "Project 1 Remote",
       "languages": [
         "HTML",
         "CSS",
@@ -17,7 +17,7 @@
     },
     {
       "id": "project2",
-      "title": "Project 2 Title",
+      "title": "Project 2 Remote",
       "languages": [
         "C",
         "Java"
@@ -31,7 +31,7 @@
     },
     {
       "id": "project3",
-      "title": "Project 3 Title",
+      "title": "Project 3 Remote",
       "languages": [
         "C++",
         "C"
@@ -45,7 +45,7 @@
     },
     {
       "id": "project4",
-      "title": "Project 4 Title",
+      "title": "Project 4 Remote",
       "languages": [
         "Python",
         "C"
@@ -59,7 +59,7 @@
     },
     {
       "id": "project5",
-      "title": "Project 5 Title",
+      "title": "Project 5 Remote",
       "languages": [
         "C++",
         "Python"
@@ -73,7 +73,7 @@
     },
     {
       "id": "project6",
-      "title": "Project 6 Title",
+      "title": "Project 6 Remote",
       "languages": [
         "Python",
         "JavaScript"
